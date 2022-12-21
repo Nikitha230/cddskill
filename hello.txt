@@ -1,0 +1,3 @@
+continuous delivery and devops
+continuous integration 
+continuous monitoring
